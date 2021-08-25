@@ -16,11 +16,6 @@
 * [GitHub Enterprise](https://www.sans.org/reading-room/whitepapers/securecode/defending-infrastructure-code-github-enterprise-39380)
 * [Azure Storage](https://www.microsoft.com/security/blog/2021/04/08/threat-matrix-for-storage/)
 
-## Useful IBM resources/references
-
-* https://developer.ibm.com/components/redhat-openshift-ibm-cloud/articles/threat-modeling-microservices-openshift-4/
-* https://www.ibm.com/garage/method/practices/code/threat-modeling
-
 ## Elevation of Privilege Card Game
 
 * [Original EoP Game](https://www.microsoft.com/en-gb/download/details.aspx?id=20303)
@@ -30,7 +25,8 @@
 
 ## Good stuff
 * [Comprehensive overview of different approaches](https://www.mitre.org/sites/default/files/publications/pr_18-1174-ngci-cyber-threat-modeling.pdf)
-* [Maturity model and open source training](https://segment.com/blog/redefining-threat-modeling/)
+* [Maturity model](https://segment.com/blog/redefining-threat-modeling/)
+* [Open source training](https://github.com/segmentio/threat-modeling-training)
 * https://martinfowler.com/articles/agile-threat-modelling.html
 * https://medium.com/sagefuturemakers/real-world-threat-modelling-fb14ef767c49
 * [How GitHub does threat modeling](https://github.blog/2020-09-02-how-we-threat-model/)
@@ -38,6 +34,8 @@
 * https://github.com/Toreon/threat-model-playbook
 * [Attack trees with Graphviz](https://swagitda.com/blog/posts/security-decision-trees-with-graphviz/)
 * [Curated list of resources](https://github.com/hysnsec/awesome-threat-modelling)
+* https://developer.ibm.com/components/redhat-openshift-ibm-cloud/articles/threat-modeling-microservices-openshift-4/
+* https://www.ibm.com/garage/method/practices/code/threat-modeling
 
 ## Conversation starters
 1. [STRIDE](https://thoughtworksinc.github.io/sensible-security-conversations/)
