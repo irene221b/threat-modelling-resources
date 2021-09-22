@@ -5,7 +5,7 @@
 * [Docker](https://cloudsecdocs.com/container_security/theory/threats/docker_threat_model/)
 * [Helm](https://helm.sh/blog/helm-2nd-security-audit/)
 * [OAuth 2.0](https://tools.ietf.org/html/rfc6819)
-* [OAuth TM updated](https://www.ietf.org/id/draft-ietf-oauth-security-topics-16.html)
+* [OAuth TM updated](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics-16)
 * [AI system](https://embracethered.com/blog/posts/2020/husky-ai-threat-modeling-machine-learning/)
 * [Differential privacy](https://www.nist.gov/blogs/cybersecurity-insights/threat-models-differential-privacy)
 * [SecureDrop](https://docs.securedrop.org/en/stable/threat_model/threat_model.html)
