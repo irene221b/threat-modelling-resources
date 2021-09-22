@@ -30,7 +30,7 @@
 * https://martinfowler.com/articles/agile-threat-modelling.html
 * https://medium.com/sagefuturemakers/real-world-threat-modelling-fb14ef767c49
 * [How GitHub does threat modeling](https://github.blog/2020-09-02-how-we-threat-model/)
-* [What TMAA should look like](https://notsosecure.com/security-architecture-review-of-a-cloud-native-environment/)
+* [In depth threat model](https://notsosecure.com/security-architecture-review-of-a-cloud-native-environment/)
 * https://github.com/Toreon/threat-model-playbook
 * [Attack trees with Graphviz](https://swagitda.com/blog/posts/security-decision-trees-with-graphviz/)
 * [Curated list of resources](https://github.com/hysnsec/awesome-threat-modelling)
