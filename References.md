@@ -1,6 +1,7 @@
 
 ## Threat models for technology stacks/components
 
+* [Amazon S3](https://trustoncloud.com/the-last-s3-security-document-that-well-ever-need/)
 * [Kubernetes](https://www.marcolancini.it/2020/blog-kubernetes-threat-modelling/)
 * [Docker](https://cloudsecdocs.com/container_security/theory/threats/docker_threat_model/)
 * [Helm](https://helm.sh/blog/helm-2nd-security-audit/)
