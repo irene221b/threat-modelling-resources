@@ -6,4 +6,4 @@ These are the few of my favourite things
 [Campfire time](https://github.com/irene221b/threat-modelling-resources/blob/main/stories.md)
 
 ## Useful references
-[Fill your boots](https://github.com/irene221b/threat-modelling-resources/blob/main/references.md)
+[Fill your boots](https://github.com/irene221b/threat-modelling-resources/blob/main/References.md)
