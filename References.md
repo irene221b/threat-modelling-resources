@@ -43,3 +43,4 @@
 2. [TRIM](https://www.linkedin.com/pulse/privacy-ideas-threat-modelling-antti-vähä-sipilä/)
 3. [Cloud security](https://levelup.gitconnected.com/cloud-security-table-top-exercises-629d353c268e)
 4. [CI/CD](https://www.linkedin.com/posts/jakubkaluzny_devops-cicd-threatmodeling-activity-6765570846695198721-YUEy)
+5. [More CI/CD](https://github.com/rung/threat-matrix-cicd)
