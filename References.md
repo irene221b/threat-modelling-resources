@@ -37,6 +37,7 @@
 * [Curated list of resources](https://github.com/hysnsec/awesome-threat-modelling)
 * https://developer.ibm.com/components/redhat-openshift-ibm-cloud/articles/threat-modeling-microservices-openshift-4/
 * https://www.ibm.com/garage/method/practices/code/threat-modeling
+* [STRIDE to CAPEC map](https://ostering.com/blog/2022/03/07/capec-stride-mapping/)
 
 ## Conversation starters
 1. [STRIDE](https://thoughtworksinc.github.io/sensible-security-conversations/)
