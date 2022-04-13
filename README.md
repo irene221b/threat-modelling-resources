@@ -1,5 +1,4 @@
-# threat-modelling-resources
-These are the few of my favourite things
+# These are the few of my favourite things
 
 ## Real world exploit stories per threat type
 
