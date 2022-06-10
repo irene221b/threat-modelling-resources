@@ -16,6 +16,7 @@
 * [AWS Fargate](https://sysdig.com/blog/ecs-fargate-threat-modeling/)
 * [GitHub Enterprise](https://www.sans.org/reading-room/whitepapers/securecode/defending-infrastructure-code-github-enterprise-39380)
 * [Azure Storage](https://www.microsoft.com/security/blog/2021/04/08/threat-matrix-for-storage/)
+* [More here](https://github.com/TalEliyahu/Threat_Model_Examples)
 
 ## Elevation of Privilege Card Game
 
