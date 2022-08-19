@@ -26,6 +26,7 @@
 * [Online game - Croupier - distributes card numbers to players; needs ](https://croupier.agilestationery.co.uk)
 
 ## Good stuff
+* [Vademecum](https://shellsharks.com/threat-modeling)
 * [Index of all the buzzwords](https://github.com/arnepadmos/threats)
 * [Comprehensive overview of different approaches](https://www.mitre.org/sites/default/files/publications/pr_18-1174-ngci-cyber-threat-modeling.pdf)
 * [Maturity model](https://segment.com/blog/redefining-threat-modeling/)
