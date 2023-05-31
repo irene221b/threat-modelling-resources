@@ -23,7 +23,8 @@
 * [Original EoP Game](https://www.microsoft.com/en-gb/download/details.aspx?id=20303)
 * [Online game - closest to original](https://eopgame.azurewebsites.net)
 * [Online game - Heroku - quick & simple version](http://eopgame.herokuapp.com/)
-* [Online game - Croupier - distributes card numbers to players; needs ](https://croupier.agilestationery.co.uk)
+* [Online game - Croupier - distributes card numbers to players](https://croupier.agilestationery.co.uk)
+* [Excellent game implementation from Riskio](https://www.riskio.co.uk/)
 
 ## Good stuff
 * [Vademecum](https://shellsharks.com/threat-modeling)
